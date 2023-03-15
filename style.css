@@ -124,10 +124,14 @@ body {
     margin-bottom: 8em;
     text-align: center;
     background-color: #E5E7EB;
-    padding: 8em;
+    padding: 5em 3em 3em 3em;
     font-size: 36px;
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: light;
     color: #1f2937;
+}
+
+#author-name {
+    text-align: right;
 }
