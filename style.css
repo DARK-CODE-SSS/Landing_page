@@ -123,11 +123,11 @@ body {
     margin-top: 8em;
     margin-bottom: 8em;
     text-align: center;
-    background-color: rgb(184, 180, 180);
+    background-color: #E5E7EB;
     padding: 8em;
-    font-size: xx-large;
+    font-size: 36px;
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-
+    font-weight: light;
+    color: #1f2937;
 }
