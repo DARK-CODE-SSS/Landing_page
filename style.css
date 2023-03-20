@@ -54,16 +54,13 @@ body {
     color: #F9FAF8;
 }
 
-.hero .sign-up {
+#sign-up1, #sign-up2 {
     background-color: #3882f6;
     border-radius: 5px;
     font-size: 18px;
     font-weight: bold;
     color: #F9FAF8;
-    padding: 4px 16px;
-    border: none;
-    display: flex;
-    align-items: center;
+    padding: 1px 16px;
 }
 
 .hero-image {
@@ -133,4 +130,28 @@ body {
 
 #author-name {
     text-align: right;
+}
+
+.blue-card-section {
+    background-color: #3882F6;
+    display: flex;
+    padding: 3em 7em;
+    margin: 5em;
+    border-radius: 5px;
+    justify-content:space-between;
+}
+
+.bcs-lefttext {
+    display: flex;
+    flex-direction: column;
+    color: #F9FAF8;
+}
+
+.call-to-action {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#sign-up2 {
+    border: 1px solid white;
 }
