@@ -155,3 +155,10 @@ body {
 #sign-up2 {
     border: 1px solid white;
 }
+
+.footer {
+    color: #F9FAF8;
+    text-align: center;
+    padding: 2em ;
+    display: block;
+}
